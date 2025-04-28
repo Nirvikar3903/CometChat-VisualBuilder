@@ -17,7 +17,7 @@ I loved how you can enable or disable specific components with just a switch —
 - **4. Video Walkthroughs That Actually Help**
 The YouTube guide linked in their docs was super handy. It made the setup feel much less intimidating and showed exactly how to go from builder to running app step-by-step.
 
-- **5. Ready-to-Use UI Kit (No Extra Coding Needed Unless You Want It)**
+- **5. Ready-to-Use UI Kit (No Extra Coding Needed Unless You Want It)** -
 we really don’t have to build anything from scratch unless you want to go beyond the defaults. The builder does all the heavy lifting — layout, logic, styling — and hands you ready-made code.
 
 **6.Smooth Integration with Vite**
@@ -26,10 +26,10 @@ After generating the UI kit, I spun up a new React app with Vite and dropped the
 ----
   
 ## Drawbacks and Areas for Improvement**
-- **1. Mic Popup Behavior Needs Fixing
+- **1. Mic Popup Behavior Needs Fixing**
 When clicking the mic button, a popup appears — which is great , but clicking anywhere outside doesn’t close it. That’s a basic interaction pattern users expect in modern apps, and it feels like a missing polish point in an otherwise sleek setup.
 
-- **2.UI Responsiveness Issue:**
+- **2.UI Responsiveness Issue**
 On a common laptop screen size (around 1536×730), the chat layout doesn't fit properly.
 Both horizontal and vertical scrollbars appear even when there’s no actual content overflow, making the interface feel less polished.
 Suggestion: Adjust the layout to fit typical viewport sizes better — maybe using max-width: 100% / max-height: 100% or media queries to prevent unnecessary scrollbars.
