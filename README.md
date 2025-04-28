@@ -6,22 +6,22 @@ Building a chat application using CometChat’s Visual Builder was a smooth and 
 ---
 ## Key Steps and Highlights
 - **1.Getting Started with Clear Docs**
-I started by going through CometChat’s official documentation, which has everything stated out clearly. It was well-structured and helped me understand the flow of using the Visual Builder without any guesswork.
+-I started by going through CometChat’s official documentation, which has everything stated out clearly. It was well-structured and helped me understand the flow of using the Visual Builder without any guesswork.
 
 - **2. Visual Builder – A Time Saver**
-The builder itself was a major win. It’s like a plug-and-play interface where you can drag and toggle chat features like user lists, message windows, etc. It removes a lot of complexity from the setup process 
+-The builder itself was a major win. It’s like a plug-and-play interface where you can drag and toggle chat features like user lists, message windows, etc. It removes a lot of complexity from the setup process 
 
 - **3. Feature Toggling Made Simple**
-I loved how you can enable or disable specific components with just a switch — no need to touch any code. This gives you granular control over what shows up in your chat UI right from the start.
+-I loved how you can enable or disable specific components with just a switch — no need to touch any code. This gives you granular control over what shows up in your chat UI right from the start.
 
 - **4. Video Walkthroughs That Actually Help**
-The YouTube guide linked in their docs was super handy. It made the setup feel much less intimidating and showed exactly how to go from builder to running app step-by-step.
+-The YouTube guide linked in their docs was super handy. It made the setup feel much less intimidating and showed exactly how to go from builder to running app step-by-step.
 
-- **5. Ready-to-Use UI Kit (No Extra Coding Needed Unless You Want It)** -
-we really don’t have to build anything from scratch unless you want to go beyond the defaults. The builder does all the heavy lifting — layout, logic, styling — and hands you ready-made code.
+-**5. Ready-to-Use UI Kit (No Extra Coding Needed Unless You Want It)** -
+-we really don’t have to build anything from scratch unless you want to go beyond the defaults. The builder does all the heavy lifting — layout, logic, styling — and hands you ready-made code.
 
-**6.Smooth Integration with Vite**
-After generating the UI kit, I spun up a new React app with Vite and dropped the components in. Everything just worked. No additional setup was required, which was honestly refreshing.
+-**6.Smooth Integration with Vite**
+-After generating the UI kit, I spun up a new React app with Vite and dropped the components in. Everything just worked. No additional setup was required, which was honestly refreshing.
 
 ----
   
